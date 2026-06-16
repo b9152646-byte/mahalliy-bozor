@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b"/>
+      <stop offset="100%" style="stop-color:#334155"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect x="280" y="120" width="240" height="400" rx="32" fill="#475569" stroke="#94a3b8" stroke-width="4"/>
+  <circle cx="400" cy="480" r="28" fill="#64748b"/>
+  <text x="400" y="560" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI,sans-serif" font-size="24">Telefon</text>
+</svg>

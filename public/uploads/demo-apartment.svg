@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ecfdf5"/>
+  <rect x="200" y="100" width="400" height="380" fill="#d1fae5" stroke="#6ee7b7" stroke-width="4"/>
+  <rect x="280" y="160" width="80" height="80" fill="#a7f3d0"/>
+  <rect x="440" y="160" width="80" height="80" fill="#a7f3d0"/>
+  <rect x="280" y="280" width="80" height="80" fill="#a7f3d0"/>
+  <rect x="440" y="280" width="80" height="80" fill="#a7f3d0"/>
+  <rect x="360" y="380" width="80" height="100" fill="#059669"/>
+  <text x="400" y="560" text-anchor="middle" fill="#047857" font-family="Segoe UI,sans-serif" font-size="24">Kvartira</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#faf5ff"/>
+  <rect x="140" y="200" width="220" height="140" rx="16" fill="#c4b5fd"/>
+  <rect x="440" y="200" width="220" height="140" rx="16" fill="#a78bfa"/>
+  <rect x="290" y="360" width="220" height="100" rx="12" fill="#8b5cf6"/>
+  <text x="400" y="560" text-anchor="middle" fill="#6d28d9" font-family="Segoe UI,sans-serif" font-size="24">Mebel</text>
+</svg>
