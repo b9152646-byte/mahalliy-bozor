@@ -2,9 +2,13 @@ import { NextResponse } from "next/server";
 import prisma from "@/lib/prisma";
 import { getSession } from "@/lib/auth";
 
+// Ushbu qator xatolikni bartaraf qiladi:
+export const dynamic = 'force-dynamic'; 
+
 export async function GET() {
   try {
     const session = await getSession();
+    
     if (!session?.isAdmin) {
       return NextResponse.json({ error: "Ruxsat yo'q" }, { status: 403 });
     }
